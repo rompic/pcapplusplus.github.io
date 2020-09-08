@@ -21,7 +21,7 @@ Please visit the [supported platforms page]({{ site.baseurl }}/docs/install/plat
 
 In order to build PcapPlusPlus on Windows with Visual Studio you need the following components:
 
-1. A [supported version]({{ site.baseurl }}/docs/install/platforms) of Microsoft Visual Studio 
+1. A [supported version]({{ site.baseurl }}/docs/platforms) of Microsoft Visual Studio 
 2. [WinPcap developer's pack](https://www.winpcap.org/devel.htm) __OR__ [Npcap SDK](https://nmap.org/npcap/guide/npcap-devguide.html) - containing the wpcap library PcapPlusPlus is linking with plus relevant `h` files. 
    1. WinPcap developer's pack can be downloaded from here: <https://www.winpcap.org/devel.htm>
    2. Npcap SDK can be downloaded from here: <https://nmap.org/npcap/#download>
